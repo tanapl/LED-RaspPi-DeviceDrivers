@@ -40,7 +40,7 @@ The code will works with the requirements below.
 
 The Figure below is representing how to setup the circuit for this project.
 
-https://files.slack.com/files-tmb/T01A33E16F4-F01GEET71DW-01302458b7/image_from_ios_720.jpg
+![image](https://files.slack.com/files-tmb/T01A33E16F4-F01GEET71DW-01302458b7/image_from_ios_720.jpg)
 
 * Red jumper for GPIO_17.
 * Green jumper for GPIO_24.
