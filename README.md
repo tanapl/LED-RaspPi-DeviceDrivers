@@ -43,19 +43,15 @@ The Figure below is representing how to setup the circuit for this project.
 
 ### Build
 
-1. Open a Raspberry Pi on Ubuntu native (or WSL) and  Makefile in the folder that you want to save by using vim (optional).
+1. First of all, clone this repository with the following command.
 
-       $ vi Makefile
+       $ git clone 
   
-2. Make a new .c file by using vim (optional) and save the code. Based on Makefile, the name of the file is "myled.c"
-
-       $ vi myled.c
-  
-3. Type "make" and if there is no target mentioned at the beginning (or old), the process of that target will run.
+2. In the folder, type "make" and if there is no target mentioned at the beginning (or old), the process of that target will run.
 
        $ make
   
-4. Install the modules.
+3. Install the modules.
 
        $ sudo insmod myled.ko
   
@@ -65,7 +61,7 @@ The Figure below is representing how to setup the circuit for this project.
        
        $ make clean
   
-5. Change the permissions on the resulting  /dev/myled0
+4. Change the permissions on the resulting  /dev/myled0
 
        $ sudo chmod 666 /dev/myled0
   
@@ -93,14 +89,14 @@ There are 4 patterns for running LED in this program.
 
        $ sudo 0 > /dev/myled0
   
-### About the Project
+## About the Project
 
-Mainly, ...
+This
 
-### Preference
+## Preference
 
 [Prof.Ryuichi Ueda/robosys_device_drivers](https://github.com/ryuichiueda/robosys_device_drivers)
 
-### License
+## License
 
 [GNU General Public License v3.0](https://github.com/TanapolHongsuwan/LED-with-Raspberri-Pi/blob/main/LICENSE/)
