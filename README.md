@@ -99,8 +99,8 @@ Mainly, ...
 
 ### Preference
 
-[Prof.Ryuichi Ueda's robosys_device_drivers](https://github.com/ryuichiueda/robosys_device_drivers)
+[Prof.Ryuichi Ueda/robosys_device_drivers](https://github.com/ryuichiueda/robosys_device_drivers)
 
 ### License
 
-[GPL-3.0 License](https://)
+[GNU General Public License v3.0](https://github.com/TanapolHongsuwan/LED-with-Raspberri-Pi/blob/main/LICENSE/)
