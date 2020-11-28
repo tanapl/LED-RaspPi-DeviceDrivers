@@ -46,6 +46,8 @@ The Figure below is representing how to setup the circuit for this project.
 1. First of all, clone this repository with the following command.
 
        $ git clone https://github.com/TanapolHongsuwan/LED-RaspPi-DeviceDrivers.git
+       
+       $ cd LED-RaspPi-DeviceDrivers
   
 2. In the folder, type "make" and if there is no target mentioned at the beginning (or old), the process of that target will run.
 
@@ -91,7 +93,7 @@ There are 4 patterns for running LED in this program.
   
 ## About the Project
 
-This
+This is my first project with Raspberry Pi based on Prof. Ryuichi Ueda's template code, learning about device driver by Raspberry Pi and LED on Ubuntu. I've written this in English because I wish I could use this repository to share knowledge with not only Japanese, but all programmers around the world somedays in the future.
 
 ## Preference
 
