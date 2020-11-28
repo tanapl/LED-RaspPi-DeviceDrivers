@@ -48,16 +48,25 @@ The Figure below is representing how to setup the circuit for this project.
        $ git clone https://github.com/TanapolHongsuwan/LED-RaspPi-DeviceDrivers.git
        
        $ cd LED-RaspPi-DeviceDrivers
+       
   
 2. In the folder, type "make" and if there is no target mentioned at the beginning (or old), the process of that target will run.
 
        $ make
+       
+     #### WARNING: When you clone and 'make' the repository, there might be an error like the following. 
+     
+       Makefile:4: *** missing separator (did you mean TAB instead of 8 spaces?).  Stop.
+       
+   This is an error after you clone the Makefile's code.
+   
+   * In this case, you should check Makefile and change all spaces in to TAB.
   
 3. Install the modules.
 
        $ sudo insmod myled.ko
   
-* In case, to erase the old module and kernel module in order to make (compile) the new one.
+   * In this case, to erase the old module and kernel module in order to make (compile) the new one.
     
        $ sudo rmmod myled
        
@@ -83,7 +92,7 @@ There are 4 patterns for running LED in this program.
 
        $ echo 3 > /dev/myled0
   
-4. LEDs show
+4. LEDs' show
 
        $ echo 4 > /dev/myled0
   
@@ -97,7 +106,7 @@ This is my first project with Raspberry Pi based on Prof. Ryuichi Ueda's templat
 
 ## Preference
 
-[Prof.Ryuichi Ueda/robosys_device_drivers](https://github.com/ryuichiueda/robosys_device_drivers)
+[Prof. Ryuichi Ueda/robosys_device_drivers](https://github.com/ryuichiueda/robosys_device_drivers)
 
 ## License
 
