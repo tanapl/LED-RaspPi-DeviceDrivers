@@ -99,8 +99,8 @@ Mainly, ...
 
 ### Preference
 
-[link](https://)
+[Prof.Ryuichi Ueda's robosys_device_drivers](https://github.com/ryuichiueda/robosys_device_drivers)
 
 ### License
 
-[link](https://)
+[GPL-3.0 License](https://)
