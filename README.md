@@ -45,28 +45,29 @@ The Figure below is representing how to setup the circuit for this project.
 
 1. Open a Raspberry Pi on Ubuntu native (or WSL) and  Makefile in the folder that you want to save by using vim (optional).
 
-  $ vi Makefile
+       $ vi Makefile
   
 2. Make a new .c file by using vim (optional) and save the code. Based on Makefile, the name of the file is "myled.c"
 
-  $ vi myled.c
+       $ vi myled.c
   
 3. Type "make" and if there is no target mentioned at the beginning (or old), the process of that target will run.
 
-  $ make
+       $ make
   
 4. Install the modules.
 
-  $ sudo insmod myled.ko
+       $ sudo insmod myled.ko
   
-    * In case, to erase the old module and kernel module in order to make (compile) the new one.
+* In case, to erase the old module and kernel module in order to make (compile) the new one.
     
-  $ sudo rmmod myled
-  $ make clean
+       $ sudo rmmod myled
+       
+       $ make clean
   
 5. Change the permissions on the resulting  /dev/myled0
 
-  $ sudo chmod 666 /dev/myled0
+       $ sudo chmod 666 /dev/myled0
   
 ### Run
 
@@ -74,23 +75,23 @@ There are 4 patterns for running LED in this program.
 
 1. Only red LED
 
-  $ sudo 1 > /dev/myled0
+       $ sudo 1 > /dev/myled0
   
 2. Only green LED
 
-  $ sudo 2 > /dev/myled0
+       $ sudo 2 > /dev/myled0
   
 3. Only white LED
 
-  $ sudo 3 > /dev/myled0
+       $ sudo 3 > /dev/myled0
   
 4. LEDs show
 
-  $ sudo 4 > /dev/myled0
+       $ sudo 4 > /dev/myled0
   
 5. To turn off all the LEDs.
 
-  $ sudo 0 > /dev/myled0
+       $ sudo 0 > /dev/myled0
   
 ### About the Project
 
@@ -98,8 +99,8 @@ Mainly, ...
 
 ### Preference
 
-[link]
+[link](https://)
 
 ### License
 
-[link]
+[link](https://)
