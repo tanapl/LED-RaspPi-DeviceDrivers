@@ -22,8 +22,8 @@ Youtube video: [link](https://)
   
 ## Code
 
-Code: [link](https://)
-Makefile: [link](https://)
+* Code: [link](https://github.com/TanapolHongsuwan/LED-with-Raspberri-Pi/blob/main/myled.c)
+* Makefile: [link](https://github.com/TanapolHongsuwan/LED-with-Raspberri-Pi/blob/main/Makefile)
 
 ### Requirements
 
