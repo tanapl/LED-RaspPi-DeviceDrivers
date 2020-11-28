@@ -73,23 +73,23 @@ There are 4 patterns for running LED in this program.
 
 1. Only red LED
 
-       $ sudo 1 > /dev/myled0
+       $ echo 1 > /dev/myled0
   
 2. Only green LED
 
-       $ sudo 2 > /dev/myled0
+       $ echo 2 > /dev/myled0
   
 3. Only white LED
 
-       $ sudo 3 > /dev/myled0
+       $ echo 3 > /dev/myled0
   
 4. LEDs show
 
-       $ sudo 4 > /dev/myled0
+       $ echo 4 > /dev/myled0
   
 5. To turn off all the LEDs.
 
-       $ sudo 0 > /dev/myled0
+       $ echo 0 > /dev/myled0
   
 ## About the Project
 
