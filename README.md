@@ -40,7 +40,7 @@ The code will works with the requirements below.
 
 The Figure below is representing how to setup the circuit for this project.
 
-![image](https://user-images.githubusercontent.com/67133469/100526038-c3bcf580-3208-11eb-82ca-1e15431e50fa.jpg)
+<img src="https://user-images.githubusercontent.com/67133469/100526038-c3bcf580-3208-11eb-82ca-1e15431e50fa.jpg" width = "500">
 
 * Red jumper for GPIO_17.
 * Green jumper for GPIO_24.
