@@ -45,7 +45,7 @@ The Figure below is representing how to setup the circuit for this project.
 
 1. First of all, clone this repository with the following command.
 
-       $ git clone 
+       $ git clone https://github.com/TanapolHongsuwan/LED-RaspPi-DeviceDrivers.git
   
 2. In the folder, type "make" and if there is no target mentioned at the beginning (or old), the process of that target will run.
 
