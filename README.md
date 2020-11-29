@@ -2,10 +2,10 @@
 
 ## About / Synopsis
 
-* This project is for turning on an LED in Linux platform using C programming language.
+* This project is for turning on LEDs in Linux platform using C programming language.
 * Project status: finished
 
-Youtube video: [link](https://)
+Youtube video: [link](https://youtu.be/J-4yFp5CeLo)
 
 ## Table of contents
 
