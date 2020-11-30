@@ -29,7 +29,7 @@ Youtube video: [link](https://youtu.be/J-4yFp5CeLo)
 
 The code will works with the requirements below.
 
-  * Ubuntu native/Ubuntu on WSL
+  * Ubuntu
   * Raspberri Pi 3 above
   * LED x 3
   * 300Ω of resistor x 3
@@ -74,9 +74,9 @@ The Figure below is representing how to setup the circuit for this project.
   
    * In this case, to erase the old module and kernel module in order to make (compile) the new one.
     
-       $ sudo rmmod myled
+         $ sudo rmmod myled
        
-       $ make clean
+         $ make clean
   
 4. Change the permissions on the resulting  /dev/myled0
 
