@@ -9,7 +9,7 @@ Youtube video: [link](https://youtu.be/J-4yFp5CeLo)
 
 ## Table of contents
 
-* [Title / Respository Name](#title--repository-name)
+* [Title](#driver_for_led_control)
   * [About / Synopsis](#about--synopsis)
   * [Code](#code)
     * [Requirements](#requirements)
