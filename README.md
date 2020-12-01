@@ -18,6 +18,7 @@ Youtube video: [link](https://youtu.be/J-4yFp5CeLo)
     * [Run](#run)
   * [About the Project](#about-the-project)
   * [Preference](#preference)
+  * [Supporter](#supporter)
   * [License](#license)
   
 ## Code
@@ -113,6 +114,10 @@ This is my first project with Raspberry Pi based on Prof. Ryuichi Ueda's templat
 ## Preference
 
 [Prof. Ryuichi Ueda/robosys_device_drivers](https://github.com/ryuichiueda/robosys_device_drivers)
+
+## Supporter
+
+[Yuya Sakamoto](https://github.com/yuya1951/dvd-myled)
 
 ## License
 
