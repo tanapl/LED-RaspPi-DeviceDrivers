@@ -117,7 +117,7 @@ This is my first project with Raspberry Pi based on Prof. Ryuichi Ueda's templat
 
 ## Supporter
 
-[Yuya Sakamoto](https://github.com/yuya1951/dvd-myled)
+Thanks to [Yuya Sakamoto](https://github.com/yuya1951/dvd-myled)
 
 ## License
 
